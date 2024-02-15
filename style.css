@@ -74,8 +74,8 @@ button {
   color: white;
   border: none;
   border-radius: 20px;
-  transition: all;
-  transition-duration: 0.3s;
+/*   transition: all; */
+/*   transition-duration: 0.3s; */
 }
 
 .row button:hover {
